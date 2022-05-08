@@ -1,0 +1,22 @@
+.bgg{
+    background-image: url(./handwriting-text-me-myself-i-concept-meaning-used-speaker-to-refer-herself-as-object-verb-cardboard-which-162910397.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+body{
+    background-color: rgb(200, 228, 218);
+
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    
+}
+
+.anc{
+    text-decoration: none;
+}
